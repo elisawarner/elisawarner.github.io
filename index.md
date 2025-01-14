@@ -1,5 +1,6 @@
-# About Me
+# Elisa Warner
 
+## About Me
 I am a PhD candidate at the University of Michigan in the Department of Computational Medicine and Bioinformatics (DCMB). Most of my research centers on computational methods for precision medicine. Currently, I am working with Dr. Arvind Rao to integrate multimodal data into machine learning frameworks. I have experience from my previous lab in signal processing of ECG signals, as well as some image processing of CT scans. I’ve also worked with stock market prediction and financial data.
 
 I previously worked as a Data Engineer at a startup called Elevada. Elevada was a data automation company. that featured a software called Curator, which provided tools for automated and quick data preparation.  Our primary customers were in big pharma and healthcare analytics. We were also linked to the i2b2 TranSMART Foundation, which works to promote clean, open-source translational and -omic data.
