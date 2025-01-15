@@ -1,14 +1,6 @@
 ---
 ---
 
-.site-title::before {
-	content: url("./assets/img/logo.jpeg");
-	display: inline-block;
-	position: relative;
-	width: 32px;
-	top: 32px;
-}
-
 @import "{{ site.theme }}";
 
 footer {
