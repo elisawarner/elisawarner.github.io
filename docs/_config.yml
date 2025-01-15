@@ -2,7 +2,6 @@ domain: elisawarner.github.io       # if you want to force HTTPS, specify the do
 url: https:/elisawarner.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
 theme: default
-layout: default
 
 github:
   is_project_page: false
