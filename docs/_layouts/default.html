@@ -31,6 +31,12 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        {% if site.github.navbar %}
+        <p class="view">Publications</p>
+        <p class="view">Projects</p>
+        <p class="view">CV</p>
+        {% endif %}
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>TEST File</strong></a></li>
