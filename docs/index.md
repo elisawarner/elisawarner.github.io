@@ -25,4 +25,4 @@ If you are interested in working with me on a project, please feel free to conta
 * I can name all 50 states in less than 20 seconds (thanks to 3rd grade)
 
 ## Links
-<a href="https://elisawarner.github.io/publications.md" title="Publications">Publications</a>
+<a href="https://elisawarner.github.io/publications.html" title="Publications">Publications</a>
