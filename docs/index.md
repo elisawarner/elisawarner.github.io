@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Elisa Warner
 
 ## About Me
