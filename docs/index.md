@@ -15,7 +15,10 @@ In particular, I’m interested in building the right mathematical models that c
 If you are interested in working with me on a project, please feel free to contact me via my Contact page.
 
 ## Why I’m Cool
-*I have played the Rainbow Road course on Mario Kart 8 at 200cc without falling off
-*The pronunciation of my first and last name is iambic
-*I liked Harry Potter so much as a kid that I once made a broomstick out of paper so I could play Quidditch
-*I can name all 50 states in less than 20 seconds (thanks to 3rd grade)
+* I have played the Rainbow Road course on Mario Kart 8 at 200cc without falling off
+* The pronunciation of my first and last name is iambic
+* I liked Harry Potter so much as a kid that I once made a broomstick out of paper so I could play Quidditch
+* I can name all 50 states in less than 20 seconds (thanks to 3rd grade)
+
+## Links
+<a href="https://<user.name>.github.io/elwarner.github.io/publications.md" title="Publications">About Me</a>
